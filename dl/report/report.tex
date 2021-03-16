@@ -1,0 +1,49 @@
+\documentclass{article}
+
+\usepackage{style/conference}
+\usepackage{opensans}
+\usepackage{graphicx}
+\usepackage{biblatex}
+\usepackage{fontawesome}
+\usepackage[hidelinks]{hyperref}
+\usepackage{floatrow}
+
+\floatsetup[table]{capposition=top}
+\floatsetup[figure]{capposition=top}
+
+\newcommand{\norm}[1]{\left\lVert#1\right\rVert}
+
+\addbibresource{references.bib}
+\input{style/math_commands.tex}
+
+\title{Generating Winged Horses with a Generative Adversarial Network}
+
+\begin{document}
+
+    \maketitle
+
+    \begin{abstract}
+        This paper proposes and explains the use of a Deep Convolutional Wasserstein Generative Adversarial Network (WGAN) to produce images that look like the mythical Pegasus (a white horse with wings).
+        Without input pictures of winged horses, using only the CIFAR-10 and STL-10 datasets, the WGAN is conditioned on $64 \times 64$ pixel images of birds and horses to learn their latent features.
+        Next, a demonstration of randomly generated results from the WGAN are demonstrated, with the best Pegasus-like image being selected.
+        Finally, the limitations are considered and potential future improvements are suggested.
+    \end{abstract}
+
+
+    \section{Methodology}\label{sec:methodology}
+    \input{sections/00-methodology}
+
+
+    \section{Results}\label{sec:results}
+    \input{sections/01-results}
+
+
+    \section{Limitations}\label{sec:limitations}
+    \input{sections/02-limitations}
+
+    \section*{Bonuses}
+    This submission has a total bonus of -3 marks (a penalty), as it uses a GAN and was trained with STL resized to 64x64.
+
+    \printbibliography
+
+\end{document}

@@ -1,0 +1,7 @@
+numpy~=1.19.2
+torch~=1.7.1
+torchvision~=0.8.2
+gym~=0.18.0
+tqdm~=4.56.0
+matplotlib~=3.3.4
+visdom~=0.1.8.9

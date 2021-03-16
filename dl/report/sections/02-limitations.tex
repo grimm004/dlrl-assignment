@@ -1,0 +1,17 @@
+The majority of the generated images do not look like a Pegasus.
+Since the loss converged to around 20 after about 500 epochs, it is unlikely any additional epochs would improve the quality.
+Additionally, while improvements would be made with more input image data, the existing CIFAR-10 and STL-10 horse and bird images could be manually curated, choosing those with relevant features (open wings, better matching colours, etc.).
+
+For CIFAR-10 alone, the images tend to converge towards horse-like figures.
+Interestingly, for STL-10 alone, the definition is most clear towards the centre of the majority of the images.
+Additionally, the sampled images generally look more bird-like than horse-like (of which there are rarely open wings).
+
+Only the labelled images are used, which is a small subset of all the images provided by STL-10.
+It may be worth first training a classifier to identify birds and horses so that the rest of the dataset may be used, allowing better learning of the underlying distribution.
+This classifier could then potentially be extended to identify birds and horses in the centre of the frame (and even birds with their wings spread).
+
+Potentially, a multi-generator (or even multi-GAN) approach could be used to separately train for bird features and horse features (learning their respective distributions) and sample a linear combination of (manually selected) latent noise vectors which give reasonable results.
+
+Finally, GANs are relatively sensitive to changes in hyperparameter values~\cite{lucic2017gans}.
+This means that small changes in their values may result in largely varying results.
+With more time, performing a hyperparameter search by either visually inspecting outputs or minimising absolute critic loss would improve results.

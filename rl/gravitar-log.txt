@@ -1,0 +1,1529 @@
+marking, episode: 0, score: 0.0, mean_score: 0.00, std_score: 0.00
+episode: 5, score: 500, epsilon: 0.497, buffer size: 5156
+episode: 10, score: 250, epsilon: 0.495, buffer size: 9122
+episode: 15, score: 0, epsilon: 0.492, buffer size: 13876
+episode: 20, score: 100, epsilon: 0.490, buffer size: 18807
+video: 25, score: 700 (best 700.0 at episode 25)
+episode: 25, score: 700, epsilon: 0.487, buffer size: 23248
+episode: 30, score: 0, epsilon: 0.485, buffer size: 28278
+episode: 35, score: 100, epsilon: 0.482, buffer size: 32323
+episode: 40, score: 0, epsilon: 0.480, buffer size: 36880
+episode: 45, score: 200, epsilon: 0.477, buffer size: 42170
+video: 50, score: 0 (best 700.0 at episode 25)
+episode: 50, score: 0, epsilon: 0.475, buffer size: 46389
+episode: 55, score: 0, epsilon: 0.472
+episode: 60, score: 0, epsilon: 0.470
+episode: 65, score: 0, epsilon: 0.468
+episode: 70, score: 0, epsilon: 0.465
+video: 75, score: 0 (best 700.0 at episode 25)
+episode: 75, score: 0, epsilon: 0.463
+episode: 80, score: 0, epsilon: 0.460
+episode: 85, score: 0, epsilon: 0.458
+episode: 90, score: 700, epsilon: 0.455
+episode: 95, score: 500, epsilon: 0.453
+Matching network values
+video: 100, score: 100 (best 700.0 at episode 25)
+episode: 100, score: 100, epsilon: 0.450
+marking, episode: 100, score: 100.0, mean_score: 148.50, std_score: 201.67
+episode: 105, score: 100, epsilon: 0.448
+episode: 110, score: 250, epsilon: 0.445
+episode: 115, score: 0, epsilon: 0.443
+episode: 120, score: 200, epsilon: 0.440
+video: 125, score: 100 (best 700.0 at episode 25)
+episode: 125, score: 100, epsilon: 0.438
+episode: 130, score: 100, epsilon: 0.435
+episode: 135, score: 200, epsilon: 0.432
+episode: 140, score: 750, epsilon: 0.430
+episode: 145, score: 100, epsilon: 0.427
+video: 150, score: 250 (best 700.0 at episode 25)
+episode: 150, score: 250, epsilon: 0.425
+episode: 155, score: 500, epsilon: 0.422
+episode: 160, score: 0, epsilon: 0.420
+episode: 165, score: 0, epsilon: 0.417
+episode: 170, score: 500, epsilon: 0.415
+video: 175, score: 100 (best 700.0 at episode 25)
+episode: 175, score: 100, epsilon: 0.412
+episode: 180, score: 350, epsilon: 0.410
+episode: 185, score: 0, epsilon: 0.407
+episode: 190, score: 0, epsilon: 0.405
+episode: 195, score: 0, epsilon: 0.402
+Matching network values
+video: 200, score: 0 (best 700.0 at episode 25)
+episode: 200, score: 0, epsilon: 0.400
+marking, episode: 200, score: 0.0, mean_score: 139.00, std_score: 169.50
+episode: 205, score: 700, epsilon: 0.397
+episode: 210, score: 0, epsilon: 0.395
+episode: 215, score: 0, epsilon: 0.393
+episode: 220, score: 0, epsilon: 0.390
+video: 225, score: 0 (best 700.0 at episode 25)
+episode: 225, score: 0, epsilon: 0.388
+episode: 230, score: 0, epsilon: 0.385
+episode: 235, score: 200, epsilon: 0.383
+episode: 240, score: 250, epsilon: 0.380
+episode: 245, score: 100, epsilon: 0.378
+video: 250, score: 0 (best 700.0 at episode 25)
+episode: 250, score: 0, epsilon: 0.375
+episode: 255, score: 600, epsilon: 0.372
+episode: 260, score: 0, epsilon: 0.370
+episode: 265, score: 300, epsilon: 0.367
+episode: 270, score: 0, epsilon: 0.365
+video: 275, score: 600 (best 700.0 at episode 25)
+episode: 275, score: 600, epsilon: 0.362
+episode: 280, score: 0, epsilon: 0.360
+episode: 285, score: 0, epsilon: 0.357
+episode: 290, score: 250, epsilon: 0.355
+episode: 295, score: 0, epsilon: 0.353
+Matching network values
+video: 300, score: 0 (best 700.0 at episode 25)
+episode: 300, score: 0, epsilon: 0.350
+marking, episode: 300, score: 0.0, mean_score: 96.00, std_score: 150.28
+episode: 305, score: 100, epsilon: 0.348
+episode: 310, score: 0, epsilon: 0.345
+episode: 315, score: 100, epsilon: 0.343
+episode: 320, score: 0, epsilon: 0.340
+video: 325, score: 0 (best 700.0 at episode 25)
+episode: 325, score: 0, epsilon: 0.338
+episode: 330, score: 200, epsilon: 0.335
+episode: 335, score: 0, epsilon: 0.333
+episode: 340, score: 0, epsilon: 0.330
+episode: 345, score: 100, epsilon: 0.328
+video: 350, score: 0 (best 700.0 at episode 25)
+episode: 350, score: 0, epsilon: 0.325
+episode: 355, score: 100, epsilon: 0.323
+episode: 360, score: 0, epsilon: 0.320
+episode: 365, score: 0, epsilon: 0.318
+episode: 370, score: 0, epsilon: 0.315
+video: 375, score: 0 (best 700.0 at episode 25)
+episode: 375, score: 0, epsilon: 0.312
+episode: 380, score: 0, epsilon: 0.310
+episode: 385, score: 500, epsilon: 0.307
+episode: 390, score: 600, epsilon: 0.305
+episode: 395, score: 500, epsilon: 0.302
+Matching network values
+video: 400, score: 0 (best 700.0 at episode 25)
+episode: 400, score: 0, epsilon: 0.300
+marking, episode: 400, score: 0.0, mean_score: 101.50, std_score: 176.70
+episode: 405, score: 0, epsilon: 0.297
+episode: 410, score: 500, epsilon: 0.295
+episode: 415, score: 200, epsilon: 0.292
+episode: 420, score: 0, epsilon: 0.290
+video: 425, score: 350 (best 700.0 at episode 25)
+episode: 425, score: 350, epsilon: 0.287
+episode: 430, score: 0, epsilon: 0.285
+episode: 435, score: 0, epsilon: 0.282
+episode: 440, score: 0, epsilon: 0.280
+episode: 445, score: 100, epsilon: 0.277
+video: 450, score: 100 (best 700.0 at episode 25)
+episode: 450, score: 100, epsilon: 0.275
+episode: 455, score: 250, epsilon: 0.272
+episode: 460, score: 100, epsilon: 0.270
+episode: 465, score: 0, epsilon: 0.267
+episode: 470, score: 0, epsilon: 0.265
+video: 475, score: 0 (best 700.0 at episode 25)
+episode: 475, score: 0, epsilon: 0.262
+episode: 480, score: 250, epsilon: 0.260
+episode: 485, score: 0, epsilon: 0.258
+episode: 490, score: 0, epsilon: 0.255
+episode: 495, score: 100, epsilon: 0.253
+Matching network values
+video: 500, score: 200 (best 700.0 at episode 25)
+episode: 500, score: 200, epsilon: 0.250
+marking, episode: 500, score: 200.0, mean_score: 93.00, std_score: 160.16
+episode: 505, score: 100, epsilon: 0.247
+episode: 510, score: 0, epsilon: 0.245
+episode: 515, score: 0, epsilon: 0.242
+episode: 520, score: 0, epsilon: 0.240
+video: 525, score: 0 (best 700.0 at episode 25)
+episode: 525, score: 0, epsilon: 0.237
+episode: 530, score: 0, epsilon: 0.235
+episode: 535, score: 0, epsilon: 0.232
+episode: 540, score: 0, epsilon: 0.230
+episode: 545, score: 0, epsilon: 0.227
+video: 550, score: 0 (best 700.0 at episode 25)
+episode: 550, score: 0, epsilon: 0.225
+episode: 555, score: 0, epsilon: 0.222
+episode: 560, score: 100, epsilon: 0.220
+episode: 565, score: 0, epsilon: 0.217
+episode: 570, score: 0, epsilon: 0.215
+video: 575, score: 250 (best 700.0 at episode 25)
+episode: 575, score: 250, epsilon: 0.212
+episode: 580, score: 0, epsilon: 0.210
+episode: 585, score: 250, epsilon: 0.208
+episode: 590, score: 450, epsilon: 0.205
+episode: 595, score: 250, epsilon: 0.203
+Matching network values
+video: 600, score: 0 (best 700.0 at episode 25)
+episode: 600, score: 0, epsilon: 0.200
+marking, episode: 600, score: 0.0, mean_score: 90.00, std_score: 173.06
+episode: 605, score: 0, epsilon: 0.198
+episode: 610, score: 100, epsilon: 0.195
+episode: 615, score: 200, epsilon: 0.193
+episode: 620, score: 100, epsilon: 0.190
+video: 625, score: 0 (best 700.0 at episode 25)
+episode: 625, score: 0, epsilon: 0.188
+episode: 630, score: 200, epsilon: 0.185
+episode: 635, score: 100, epsilon: 0.182
+episode: 640, score: 0, epsilon: 0.180
+episode: 645, score: 0, epsilon: 0.177
+video: 650, score: 0 (best 700.0 at episode 25)
+episode: 650, score: 0, epsilon: 0.175
+episode: 655, score: 250, epsilon: 0.172
+episode: 660, score: 0, epsilon: 0.170
+episode: 665, score: 0, epsilon: 0.167
+episode: 670, score: 0, epsilon: 0.165
+video: 675, score: 300 (best 700.0 at episode 25)
+episode: 675, score: 300, epsilon: 0.162
+episode: 680, score: 0, epsilon: 0.160
+episode: 685, score: 400, epsilon: 0.157
+episode: 690, score: 0, epsilon: 0.155
+episode: 695, score: 0, epsilon: 0.152
+Matching network values
+video: 700, score: 0 (best 700.0 at episode 25)
+episode: 700, score: 0, epsilon: 0.150
+marking, episode: 700, score: 0.0, mean_score: 97.00, std_score: 147.96
+episode: 705, score: 0, epsilon: 0.148
+episode: 710, score: 0, epsilon: 0.145
+episode: 715, score: 0, epsilon: 0.143
+episode: 720, score: 0, epsilon: 0.140
+video: 725, score: 0 (best 700.0 at episode 25)
+episode: 725, score: 0, epsilon: 0.138
+episode: 730, score: 0, epsilon: 0.135
+episode: 735, score: 100, epsilon: 0.133
+episode: 740, score: 0, epsilon: 0.130
+episode: 745, score: 450, epsilon: 0.128
+video: 750, score: 350 (best 700.0 at episode 25)
+episode: 750, score: 350, epsilon: 0.125
+episode: 755, score: 0, epsilon: 0.122
+episode: 760, score: 100, epsilon: 0.120
+episode: 765, score: 100, epsilon: 0.117
+episode: 770, score: 0, epsilon: 0.115
+video: 775, score: 0 (best 700.0 at episode 25)
+episode: 775, score: 0, epsilon: 0.112
+episode: 780, score: 300, epsilon: 0.110
+episode: 785, score: 0, epsilon: 0.107
+episode: 790, score: 100, epsilon: 0.105
+episode: 795, score: 0, epsilon: 0.102
+Matching network values
+video: 800, score: 0 (best 700.0 at episode 25)
+episode: 800, score: 0, epsilon: 0.100
+marking, episode: 800, score: 0.0, mean_score: 53.00, std_score: 107.20
+episode: 805, score: 0, epsilon: 0.097
+episode: 810, score: 500, epsilon: 0.095
+episode: 815, score: 0, epsilon: 0.092
+episode: 820, score: 0, epsilon: 0.090
+video: 825, score: 100 (best 700.0 at episode 25)
+episode: 825, score: 100, epsilon: 0.087
+episode: 830, score: 0, epsilon: 0.085
+episode: 835, score: 0, epsilon: 0.083
+episode: 840, score: 250, epsilon: 0.080
+episode: 845, score: 0, epsilon: 0.078
+video: 850, score: 0 (best 700.0 at episode 25)
+episode: 850, score: 0, epsilon: 0.075
+episode: 855, score: 0, epsilon: 0.073
+episode: 860, score: 0, epsilon: 0.070
+episode: 865, score: 250, epsilon: 0.068
+episode: 870, score: 0, epsilon: 0.065
+video: 875, score: 0 (best 700.0 at episode 25)
+episode: 875, score: 0, epsilon: 0.062
+episode: 880, score: 0, epsilon: 0.060
+episode: 885, score: 0, epsilon: 0.057
+episode: 890, score: 0, epsilon: 0.055
+episode: 895, score: 250, epsilon: 0.052
+Matching network values
+video: 900, score: 0 (best 700.0 at episode 25)
+episode: 900, score: 0, epsilon: 0.050
+marking, episode: 900, score: 0.0, mean_score: 61.00, std_score: 115.02
+episode: 905, score: 250, epsilon: 0.047
+episode: 910, score: 0, epsilon: 0.045
+episode: 915, score: 0, epsilon: 0.042
+episode: 920, score: 0, epsilon: 0.040
+video: 925, score: 0 (best 700.0 at episode 25)
+episode: 925, score: 0, epsilon: 0.037
+episode: 930, score: 100, epsilon: 0.035
+episode: 935, score: 100, epsilon: 0.032
+episode: 940, score: 0, epsilon: 0.030
+episode: 945, score: 0, epsilon: 0.027
+video: 950, score: 0 (best 700.0 at episode 25)
+episode: 950, score: 0, epsilon: 0.025
+episode: 955, score: 0, epsilon: 0.022
+episode: 960, score: 0, epsilon: 0.020
+episode: 965, score: 0, epsilon: 0.020
+episode: 970, score: 0, epsilon: 0.020
+video: 975, score: 0 (best 700.0 at episode 25)
+episode: 975, score: 0, epsilon: 0.020
+episode: 980, score: 0, epsilon: 0.020
+episode: 985, score: 0, epsilon: 0.020
+episode: 990, score: 0, epsilon: 0.020
+episode: 995, score: 0, epsilon: 0.020
+Matching network values
+video: 1000, score: 250 (best 700.0 at episode 25)
+episode: 1000, score: 250, epsilon: 0.020
+marking, episode: 1000, score: 250.0, mean_score: 48.00, std_score: 105.81
+episode: 1005, score: 0, epsilon: 0.020
+episode: 1010, score: 0, epsilon: 0.020
+episode: 1015, score: 0, epsilon: 0.020
+episode: 1020, score: 0, epsilon: 0.020
+video: 1025, score: 0 (best 700.0 at episode 25)
+episode: 1025, score: 0, epsilon: 0.020
+episode: 1030, score: 250, epsilon: 0.020
+episode: 1035, score: 0, epsilon: 0.020
+episode: 1040, score: 250, epsilon: 0.020
+episode: 1045, score: 0, epsilon: 0.020
+video: 1050, score: 0 (best 700.0 at episode 25)
+episode: 1050, score: 0, epsilon: 0.020
+episode: 1055, score: 0, epsilon: 0.020
+episode: 1060, score: 0, epsilon: 0.020
+episode: 1065, score: 0, epsilon: 0.020
+episode: 1070, score: 0, epsilon: 0.020
+video: 1075, score: 0 (best 700.0 at episode 25)
+episode: 1075, score: 0, epsilon: 0.020
+episode: 1080, score: 0, epsilon: 0.020
+episode: 1085, score: 0, epsilon: 0.020
+episode: 1090, score: 0, epsilon: 0.020
+episode: 1095, score: 0, epsilon: 0.020
+Matching network values
+video: 1100, score: 0 (best 700.0 at episode 25)
+episode: 1100, score: 0, epsilon: 0.020
+marking, episode: 1100, score: 0.0, mean_score: 23.00, std_score: 69.07
+episode: 1105, score: 0, epsilon: 0.020
+episode: 1110, score: 100, epsilon: 0.020
+episode: 1115, score: 0, epsilon: 0.020
+episode: 1120, score: 0, epsilon: 0.020
+video: 1125, score: 0 (best 700.0 at episode 25)
+episode: 1125, score: 0, epsilon: 0.020
+episode: 1130, score: 0, epsilon: 0.020
+episode: 1135, score: 100, epsilon: 0.020
+episode: 1140, score: 0, epsilon: 0.020
+episode: 1145, score: 0, epsilon: 0.020
+video: 1150, score: 0 (best 700.0 at episode 25)
+episode: 1150, score: 0, epsilon: 0.020
+episode: 1155, score: 0, epsilon: 0.020
+episode: 1160, score: 0, epsilon: 0.020
+episode: 1165, score: 0, epsilon: 0.020
+episode: 1170, score: 0, epsilon: 0.020
+video: 1175, score: 0 (best 700.0 at episode 25)
+episode: 1175, score: 0, epsilon: 0.020
+episode: 1180, score: 0, epsilon: 0.020
+episode: 1185, score: 0, epsilon: 0.020
+episode: 1190, score: 0, epsilon: 0.020
+episode: 1195, score: 250, epsilon: 0.020
+Matching network values
+video: 1200, score: 250 (best 700.0 at episode 25)
+episode: 1200, score: 250, epsilon: 0.020
+marking, episode: 1200, score: 250.0, mean_score: 17.00, std_score: 53.95
+episode: 1205, score: 0, epsilon: 0.020
+episode: 1210, score: 100, epsilon: 0.020
+episode: 1215, score: 0, epsilon: 0.020
+episode: 1220, score: 0, epsilon: 0.020
+video: 1225, score: 0 (best 700.0 at episode 25)
+episode: 1225, score: 0, epsilon: 0.020
+episode: 1230, score: 0, epsilon: 0.020
+episode: 1235, score: 0, epsilon: 0.020
+episode: 1240, score: 0, epsilon: 0.020
+episode: 1245, score: 0, epsilon: 0.020
+video: 1250, score: 0 (best 700.0 at episode 25)
+episode: 1250, score: 0, epsilon: 0.020
+episode: 1255, score: 0, epsilon: 0.020
+episode: 1260, score: 0, epsilon: 0.020
+episode: 1265, score: 0, epsilon: 0.020
+episode: 1270, score: 100, epsilon: 0.020
+video: 1275, score: 0 (best 700.0 at episode 25)
+episode: 1275, score: 0, epsilon: 0.020
+episode: 1280, score: 100, epsilon: 0.020
+episode: 1285, score: 0, epsilon: 0.020
+episode: 1290, score: 200, epsilon: 0.020
+episode: 1295, score: 0, epsilon: 0.020
+Matching network values
+video: 1300, score: 0 (best 700.0 at episode 25)
+episode: 1300, score: 0, epsilon: 0.020
+marking, episode: 1300, score: 0.0, mean_score: 11.00, std_score: 43.92
+episode: 1305, score: 250, epsilon: 0.020
+episode: 1310, score: 0, epsilon: 0.020
+episode: 1315, score: 0, epsilon: 0.020
+episode: 1320, score: 0, epsilon: 0.020
+video: 1325, score: 0 (best 700.0 at episode 25)
+episode: 1325, score: 0, epsilon: 0.020
+episode: 1330, score: 0, epsilon: 0.020
+episode: 1335, score: 0, epsilon: 0.020
+episode: 1340, score: 0, epsilon: 0.020
+episode: 1345, score: 0, epsilon: 0.020
+video: 1350, score: 250 (best 700.0 at episode 25)
+episode: 1350, score: 250, epsilon: 0.020
+episode: 1355, score: 0, epsilon: 0.020
+episode: 1360, score: 0, epsilon: 0.020
+episode: 1365, score: 0, epsilon: 0.020
+episode: 1370, score: 0, epsilon: 0.020
+video: 1375, score: 0 (best 700.0 at episode 25)
+episode: 1375, score: 0, epsilon: 0.020
+episode: 1380, score: 0, epsilon: 0.020
+episode: 1385, score: 450, epsilon: 0.020
+episode: 1390, score: 0, epsilon: 0.020
+episode: 1395, score: 0, epsilon: 0.020
+Matching network values
+video: 1400, score: 0 (best 700.0 at episode 25)
+episode: 1400, score: 0, epsilon: 0.020
+marking, episode: 1400, score: 0.0, mean_score: 37.00, std_score: 113.05
+episode: 1405, score: 0, epsilon: 0.020
+episode: 1410, score: 100, epsilon: 0.020
+episode: 1415, score: 0, epsilon: 0.020
+episode: 1420, score: 0, epsilon: 0.020
+video: 1425, score: 0 (best 700.0 at episode 25)
+episode: 1425, score: 0, epsilon: 0.020
+episode: 1430, score: 0, epsilon: 0.020
+episode: 1435, score: 0, epsilon: 0.020
+episode: 1440, score: 0, epsilon: 0.020
+episode: 1445, score: 0, epsilon: 0.020
+video: 1450, score: 100 (best 700.0 at episode 25)
+episode: 1450, score: 100, epsilon: 0.020
+episode: 1455, score: 0, epsilon: 0.020
+episode: 1460, score: 0, epsilon: 0.020
+episode: 1465, score: 0, epsilon: 0.020
+episode: 1470, score: 0, epsilon: 0.020
+video: 1475, score: 0 (best 700.0 at episode 25)
+episode: 1475, score: 0, epsilon: 0.020
+episode: 1480, score: 100, epsilon: 0.020
+episode: 1485, score: 250, epsilon: 0.020
+episode: 1490, score: 0, epsilon: 0.020
+episode: 1495, score: 0, epsilon: 0.020
+Matching network values
+video: 1500, score: 0 (best 700.0 at episode 25)
+episode: 1500, score: 0, epsilon: 0.020
+marking, episode: 1500, score: 0.0, mean_score: 17.50, std_score: 57.61
+episode: 1505, score: 0, epsilon: 0.020
+episode: 1510, score: 0, epsilon: 0.020
+episode: 1515, score: 0, epsilon: 0.020
+episode: 1520, score: 0, epsilon: 0.020
+video: 1525, score: 100 (best 700.0 at episode 25)
+episode: 1525, score: 100, epsilon: 0.020
+episode: 1530, score: 0, epsilon: 0.020
+episode: 1535, score: 0, epsilon: 0.020
+episode: 1540, score: 0, epsilon: 0.020
+episode: 1545, score: 0, epsilon: 0.020
+video: 1550, score: 0 (best 700.0 at episode 25)
+episode: 1550, score: 0, epsilon: 0.020
+episode: 1555, score: 0, epsilon: 0.020
+episode: 1560, score: 0, epsilon: 0.020
+episode: 1565, score: 0, epsilon: 0.020
+episode: 1570, score: 0, epsilon: 0.020
+video: 1575, score: 0 (best 700.0 at episode 25)
+episode: 1575, score: 0, epsilon: 0.020
+episode: 1580, score: 0, epsilon: 0.020
+episode: 1585, score: 100, epsilon: 0.020
+episode: 1590, score: 0, epsilon: 0.020
+episode: 1595, score: 0, epsilon: 0.020
+Matching network values
+video: 1600, score: 0 (best 700.0 at episode 25)
+episode: 1600, score: 0, epsilon: 0.020
+marking, episode: 1600, score: 0.0, mean_score: 34.00, std_score: 102.20
+episode: 1605, score: 0, epsilon: 0.020
+episode: 1610, score: 500, epsilon: 0.020
+episode: 1615, score: 0, epsilon: 0.020
+episode: 1620, score: 250, epsilon: 0.020
+video: 1625, score: 0 (best 700.0 at episode 25)
+episode: 1625, score: 0, epsilon: 0.020
+episode: 1630, score: 0, epsilon: 0.020
+episode: 1635, score: 0, epsilon: 0.020
+episode: 1640, score: 0, epsilon: 0.020
+episode: 1645, score: 0, epsilon: 0.020
+video: 1650, score: 0 (best 700.0 at episode 25)
+episode: 1650, score: 0, epsilon: 0.020
+episode: 1655, score: 100, epsilon: 0.020
+episode: 1660, score: 0, epsilon: 0.020
+episode: 1665, score: 0, epsilon: 0.020
+episode: 1670, score: 0, epsilon: 0.020
+video: 1675, score: 0 (best 700.0 at episode 25)
+episode: 1675, score: 0, epsilon: 0.020
+episode: 1680, score: 0, epsilon: 0.020
+episode: 1685, score: 0, epsilon: 0.020
+episode: 1690, score: 0, epsilon: 0.020
+episode: 1695, score: 0, epsilon: 0.020
+Matching network values
+video: 1700, score: 0 (best 700.0 at episode 25)
+episode: 1700, score: 0, epsilon: 0.020
+marking, episode: 1700, score: 0.0, mean_score: 27.50, std_score: 102.80
+episode: 1705, score: 500, epsilon: 0.020
+episode: 1710, score: 0, epsilon: 0.020
+episode: 1715, score: 0, epsilon: 0.020
+episode: 1720, score: 0, epsilon: 0.020
+video: 1725, score: 0 (best 700.0 at episode 25)
+episode: 1725, score: 0, epsilon: 0.020
+episode: 1730, score: 0, epsilon: 0.020
+episode: 1735, score: 0, epsilon: 0.020
+episode: 1740, score: 0, epsilon: 0.020
+episode: 1745, score: 0, epsilon: 0.020
+video: 1750, score: 0 (best 700.0 at episode 25)
+episode: 1750, score: 0, epsilon: 0.020
+episode: 1755, score: 0, epsilon: 0.020
+episode: 1760, score: 500, epsilon: 0.020
+episode: 1765, score: 0, epsilon: 0.020
+episode: 1770, score: 0, epsilon: 0.020
+video: 1775, score: 0 (best 700.0 at episode 25)
+episode: 1775, score: 0, epsilon: 0.020
+episode: 1780, score: 0, epsilon: 0.020
+episode: 1785, score: 0, epsilon: 0.020
+episode: 1790, score: 500, epsilon: 0.020
+episode: 1795, score: 0, epsilon: 0.020
+Matching network values
+video: 1800, score: 0 (best 700.0 at episode 25)
+episode: 1800, score: 0, epsilon: 0.020
+marking, episode: 1800, score: 0.0, mean_score: 45.00, std_score: 120.10
+episode: 1805, score: 0, epsilon: 0.020
+episode: 1810, score: 0, epsilon: 0.020
+episode: 1815, score: 0, epsilon: 0.020
+episode: 1820, score: 500, epsilon: 0.020
+video: 1825, score: 0 (best 700.0 at episode 25)
+episode: 1825, score: 0, epsilon: 0.020
+episode: 1830, score: 0, epsilon: 0.020
+episode: 1835, score: 0, epsilon: 0.020
+episode: 1840, score: 0, epsilon: 0.020
+episode: 1845, score: 0, epsilon: 0.020
+video: 1850, score: 0 (best 700.0 at episode 25)
+episode: 1850, score: 0, epsilon: 0.020
+episode: 1855, score: 0, epsilon: 0.020
+episode: 1860, score: 0, epsilon: 0.020
+episode: 1865, score: 0, epsilon: 0.020
+episode: 1870, score: 0, epsilon: 0.020
+video: 1875, score: 0 (best 700.0 at episode 25)
+episode: 1875, score: 0, epsilon: 0.020
+episode: 1880, score: 250, epsilon: 0.020
+episode: 1885, score: 0, epsilon: 0.020
+episode: 1890, score: 0, epsilon: 0.020
+episode: 1895, score: 0, epsilon: 0.020
+Matching network values
+video: 1900, score: 0 (best 700.0 at episode 25)
+episode: 1900, score: 0, epsilon: 0.020
+marking, episode: 1900, score: 0.0, mean_score: 30.00, std_score: 119.58
+episode: 1905, score: 0, epsilon: 0.020
+episode: 1910, score: 0, epsilon: 0.020
+episode: 1915, score: 0, epsilon: 0.020
+episode: 1920, score: 0, epsilon: 0.020
+video: 1925, score: 0 (best 700.0 at episode 25)
+episode: 1925, score: 0, epsilon: 0.020
+episode: 1930, score: 0, epsilon: 0.020
+episode: 1935, score: 0, epsilon: 0.020
+episode: 1940, score: 0, epsilon: 0.020
+episode: 1945, score: 0, epsilon: 0.020
+video: 1950, score: 0 (best 700.0 at episode 25)
+episode: 1950, score: 0, epsilon: 0.020
+episode: 1955, score: 0, epsilon: 0.020
+episode: 1960, score: 0, epsilon: 0.020
+episode: 1965, score: 0, epsilon: 0.020
+episode: 1970, score: 0, epsilon: 0.020
+video: 1975, score: 250 (best 700.0 at episode 25)
+episode: 1975, score: 250, epsilon: 0.020
+episode: 1980, score: 0, epsilon: 0.020
+episode: 1985, score: 250, epsilon: 0.020
+episode: 1990, score: 0, epsilon: 0.020
+episode: 1995, score: 0, epsilon: 0.020
+Matching network values
+video: 2000, score: 0 (best 700.0 at episode 25)
+episode: 2000, score: 0, epsilon: 0.020
+marking, episode: 2000, score: 0.0, mean_score: 29.50, std_score: 78.45
+episode: 2005, score: 0, epsilon: 0.020
+episode: 2010, score: 0, epsilon: 0.020
+episode: 2015, score: 0, epsilon: 0.020
+episode: 2020, score: 0, epsilon: 0.020
+video: 2025, score: 0 (best 700.0 at episode 25)
+episode: 2025, score: 0, epsilon: 0.020
+episode: 2030, score: 0, epsilon: 0.020
+episode: 2035, score: 350, epsilon: 0.020
+episode: 2040, score: 0, epsilon: 0.020
+episode: 2045, score: 0, epsilon: 0.020
+video: 2050, score: 0 (best 700.0 at episode 25)
+episode: 2050, score: 0, epsilon: 0.020
+episode: 2055, score: 250, epsilon: 0.020
+episode: 2060, score: 0, epsilon: 0.020
+episode: 2065, score: 250, epsilon: 0.020
+episode: 2070, score: 0, epsilon: 0.020
+video: 2075, score: 0 (best 700.0 at episode 25)
+episode: 2075, score: 0, epsilon: 0.020
+episode: 2080, score: 0, epsilon: 0.020
+episode: 2085, score: 0, epsilon: 0.020
+episode: 2090, score: 0, epsilon: 0.020
+episode: 2095, score: 0, epsilon: 0.020
+Matching network values
+video: 2100, score: 0 (best 700.0 at episode 25)
+episode: 2100, score: 0, epsilon: 0.020
+marking, episode: 2100, score: 0.0, mean_score: 41.00, std_score: 100.34
+episode: 2105, score: 0, epsilon: 0.020
+episode: 2110, score: 100, epsilon: 0.020
+episode: 2115, score: 250, epsilon: 0.020
+episode: 2120, score: 0, epsilon: 0.020
+video: 2125, score: 0 (best 700.0 at episode 25)
+episode: 2125, score: 0, epsilon: 0.020
+episode: 2130, score: 0, epsilon: 0.020
+episode: 2135, score: 0, epsilon: 0.020
+episode: 2140, score: 0, epsilon: 0.020
+episode: 2145, score: 0, epsilon: 0.020
+video: 2150, score: 0 (best 700.0 at episode 25)
+episode: 2150, score: 0, epsilon: 0.020
+episode: 2155, score: 0, epsilon: 0.020
+episode: 2160, score: 0, epsilon: 0.020
+episode: 2165, score: 0, epsilon: 0.020
+episode: 2170, score: 0, epsilon: 0.020
+video: 2175, score: 0 (best 700.0 at episode 25)
+episode: 2175, score: 0, epsilon: 0.020
+episode: 2180, score: 250, epsilon: 0.020
+episode: 2185, score: 0, epsilon: 0.020
+episode: 2190, score: 0, epsilon: 0.020
+episode: 2195, score: 250, epsilon: 0.020
+Matching network values
+video: 2200, score: 0 (best 700.0 at episode 25)
+episode: 2200, score: 0, epsilon: 0.020
+marking, episode: 2200, score: 0.0, mean_score: 34.00, std_score: 77.42
+episode: 2205, score: 0, epsilon: 0.020
+episode: 2210, score: 0, epsilon: 0.020
+episode: 2215, score: 0, epsilon: 0.020
+episode: 2220, score: 0, epsilon: 0.020
+video: 2225, score: 0 (best 700.0 at episode 25)
+episode: 2225, score: 0, epsilon: 0.020
+episode: 2230, score: 0, epsilon: 0.020
+episode: 2235, score: 0, epsilon: 0.020
+episode: 2240, score: 0, epsilon: 0.020
+episode: 2245, score: 0, epsilon: 0.020
+video: 2250, score: 0 (best 700.0 at episode 25)
+episode: 2250, score: 0, epsilon: 0.020
+episode: 2255, score: 0, epsilon: 0.020
+episode: 2260, score: 0, epsilon: 0.020
+episode: 2265, score: 0, epsilon: 0.020
+episode: 2270, score: 0, epsilon: 0.020
+video: 2275, score: 350 (best 700.0 at episode 25)
+episode: 2275, score: 350, epsilon: 0.020
+episode: 2280, score: 350, epsilon: 0.020
+episode: 2285, score: 0, epsilon: 0.020
+episode: 2290, score: 0, epsilon: 0.020
+episode: 2295, score: 0, epsilon: 0.020
+Matching network values
+video: 2300, score: 0 (best 700.0 at episode 25)
+episode: 2300, score: 0, epsilon: 0.020
+marking, episode: 2300, score: 0.0, mean_score: 61.00, std_score: 131.45
+episode: 2305, score: 0, epsilon: 0.020
+episode: 2310, score: 0, epsilon: 0.020
+episode: 2315, score: 0, epsilon: 0.020
+episode: 2320, score: 0, epsilon: 0.020
+video: 2325, score: 0 (best 700.0 at episode 25)
+episode: 2325, score: 0, epsilon: 0.020
+episode: 2330, score: 450, epsilon: 0.020
+episode: 2335, score: 0, epsilon: 0.020
+episode: 2340, score: 0, epsilon: 0.020
+episode: 2345, score: 0, epsilon: 0.020
+video: 2350, score: 0 (best 700.0 at episode 25)
+episode: 2350, score: 0, epsilon: 0.020
+episode: 2355, score: 0, epsilon: 0.020
+episode: 2360, score: 500, epsilon: 0.020
+episode: 2365, score: 0, epsilon: 0.020
+episode: 2370, score: 0, epsilon: 0.020
+video: 2375, score: 0 (best 700.0 at episode 25)
+episode: 2375, score: 0, epsilon: 0.020
+episode: 2380, score: 0, epsilon: 0.020
+episode: 2385, score: 250, epsilon: 0.020
+episode: 2390, score: 0, epsilon: 0.020
+episode: 2395, score: 100, epsilon: 0.020
+Matching network values
+video: 2400, score: 0 (best 700.0 at episode 25)
+episode: 2400, score: 0, epsilon: 0.020
+marking, episode: 2400, score: 0.0, mean_score: 41.00, std_score: 111.22
+episode: 2405, score: 0, epsilon: 0.020
+episode: 2410, score: 0, epsilon: 0.020
+episode: 2415, score: 250, epsilon: 0.020
+episode: 2420, score: 0, epsilon: 0.020
+video: 2425, score: 0 (best 700.0 at episode 25)
+episode: 2425, score: 0, epsilon: 0.020
+episode: 2430, score: 0, epsilon: 0.020
+episode: 2435, score: 0, epsilon: 0.020
+episode: 2440, score: 100, epsilon: 0.020
+episode: 2445, score: 0, epsilon: 0.020
+video: 2450, score: 0 (best 700.0 at episode 25)
+episode: 2450, score: 0, epsilon: 0.020
+episode: 2455, score: 0, epsilon: 0.020
+episode: 2460, score: 0, epsilon: 0.020
+episode: 2465, score: 0, epsilon: 0.020
+episode: 2470, score: 0, epsilon: 0.020
+video: 2475, score: 0 (best 700.0 at episode 25)
+episode: 2475, score: 0, epsilon: 0.020
+episode: 2480, score: 0, epsilon: 0.020
+episode: 2485, score: 350, epsilon: 0.020
+episode: 2490, score: 0, epsilon: 0.020
+episode: 2495, score: 0, epsilon: 0.020
+Matching network values
+video: 2500, score: 0 (best 700.0 at episode 25)
+episode: 2500, score: 0, epsilon: 0.020
+marking, episode: 2500, score: 0.0, mean_score: 43.50, std_score: 96.09
+episode: 2505, score: 0, epsilon: 0.020
+episode: 2510, score: 0, epsilon: 0.020
+episode: 2515, score: 0, epsilon: 0.020
+episode: 2520, score: 0, epsilon: 0.020
+video: 2525, score: 0 (best 700.0 at episode 25)
+episode: 2525, score: 0, epsilon: 0.020
+episode: 2530, score: 0, epsilon: 0.020
+episode: 2535, score: 0, epsilon: 0.020
+episode: 2540, score: 0, epsilon: 0.020
+episode: 2545, score: 0, epsilon: 0.020
+video: 2550, score: 0 (best 700.0 at episode 25)
+episode: 2550, score: 0, epsilon: 0.020
+episode: 2555, score: 0, epsilon: 0.020
+episode: 2560, score: 0, epsilon: 0.020
+episode: 2565, score: 250, epsilon: 0.020
+episode: 2570, score: 0, epsilon: 0.020
+video: 2575, score: 0 (best 700.0 at episode 25)
+episode: 2575, score: 0, epsilon: 0.020
+episode: 2580, score: 0, epsilon: 0.020
+episode: 2585, score: 250, epsilon: 0.020
+episode: 2590, score: 250, epsilon: 0.020
+episode: 2595, score: 250, epsilon: 0.020
+Matching network values
+video: 2600, score: 0 (best 700.0 at episode 25)
+episode: 2600, score: 0, epsilon: 0.020
+marking, episode: 2600, score: 0.0, mean_score: 49.50, std_score: 98.11
+episode: 2605, score: 0, epsilon: 0.020
+episode: 2610, score: 250, epsilon: 0.020
+episode: 2615, score: 250, epsilon: 0.020
+episode: 2620, score: 100, epsilon: 0.020
+video: 2625, score: 0 (best 700.0 at episode 25)
+episode: 2625, score: 0, epsilon: 0.020
+episode: 2630, score: 0, epsilon: 0.020
+episode: 2635, score: 0, epsilon: 0.020
+episode: 2640, score: 0, epsilon: 0.020
+episode: 2645, score: 0, epsilon: 0.020
+video: 2650, score: 0 (best 700.0 at episode 25)
+episode: 2650, score: 0, epsilon: 0.020
+episode: 2655, score: 0, epsilon: 0.020
+episode: 2660, score: 0, epsilon: 0.020
+episode: 2665, score: 0, epsilon: 0.020
+episode: 2670, score: 0, epsilon: 0.020
+video: 2675, score: 0 (best 700.0 at episode 25)
+episode: 2675, score: 0, epsilon: 0.020
+episode: 2680, score: 0, epsilon: 0.020
+episode: 2685, score: 0, epsilon: 0.020
+episode: 2690, score: 0, epsilon: 0.020
+episode: 2695, score: 0, epsilon: 0.020
+Matching network values
+video: 2700, score: 0 (best 700.0 at episode 25)
+episode: 2700, score: 0, epsilon: 0.020
+marking, episode: 2700, score: 0.0, mean_score: 51.00, std_score: 102.22
+episode: 2705, score: 0, epsilon: 0.020
+episode: 2710, score: 0, epsilon: 0.020
+episode: 2715, score: 0, epsilon: 0.020
+episode: 2720, score: 0, epsilon: 0.020
+video: 2725, score: 0 (best 700.0 at episode 25)
+episode: 2725, score: 0, epsilon: 0.020
+episode: 2730, score: 0, epsilon: 0.020
+episode: 2735, score: 100, epsilon: 0.020
+episode: 2740, score: 0, epsilon: 0.020
+episode: 2745, score: 0, epsilon: 0.020
+video: 2750, score: 0 (best 700.0 at episode 25)
+episode: 2750, score: 0, epsilon: 0.020
+episode: 2755, score: 0, epsilon: 0.020
+episode: 2760, score: 250, epsilon: 0.020
+episode: 2765, score: 0, epsilon: 0.020
+episode: 2770, score: 0, epsilon: 0.020
+video: 2775, score: 0 (best 700.0 at episode 25)
+episode: 2775, score: 0, epsilon: 0.020
+episode: 2780, score: 0, epsilon: 0.020
+episode: 2785, score: 0, epsilon: 0.020
+episode: 2790, score: 0, epsilon: 0.020
+episode: 2795, score: 0, epsilon: 0.020
+Matching network values
+video: 2800, score: 100 (best 700.0 at episode 25)
+episode: 2800, score: 100, epsilon: 0.020
+marking, episode: 2800, score: 100.0, mean_score: 62.00, std_score: 133.63
+episode: 2805, score: 0, epsilon: 0.020
+episode: 2810, score: 100, epsilon: 0.020
+episode: 2815, score: 0, epsilon: 0.020
+episode: 2820, score: 100, epsilon: 0.020
+video: 2825, score: 0 (best 700.0 at episode 25)
+episode: 2825, score: 0, epsilon: 0.020
+episode: 2830, score: 0, epsilon: 0.020
+episode: 2835, score: 0, epsilon: 0.020
+episode: 2840, score: 0, epsilon: 0.020
+episode: 2845, score: 0, epsilon: 0.020
+video: 2850, score: 0 (best 700.0 at episode 25)
+episode: 2850, score: 0, epsilon: 0.020
+episode: 2855, score: 0, epsilon: 0.020
+episode: 2860, score: 250, epsilon: 0.020
+episode: 2865, score: 0, epsilon: 0.020
+episode: 2870, score: 0, epsilon: 0.020
+video: 2875, score: 0 (best 700.0 at episode 25)
+episode: 2875, score: 0, epsilon: 0.020
+episode: 2880, score: 0, epsilon: 0.020
+episode: 2885, score: 0, epsilon: 0.020
+episode: 2890, score: 0, epsilon: 0.020
+episode: 2895, score: 250, epsilon: 0.020
+Matching network values
+video: 2900, score: 0 (best 700.0 at episode 25)
+episode: 2900, score: 0, epsilon: 0.020
+marking, episode: 2900, score: 0.0, mean_score: 45.00, std_score: 109.43
+episode: 2905, score: 100, epsilon: 0.020
+episode: 2910, score: 0, epsilon: 0.020
+episode: 2915, score: 0, epsilon: 0.020
+episode: 2920, score: 0, epsilon: 0.020
+video: 2925, score: 250 (best 700.0 at episode 25)
+episode: 2925, score: 250, epsilon: 0.020
+episode: 2930, score: 0, epsilon: 0.020
+episode: 2935, score: 0, epsilon: 0.020
+episode: 2940, score: 0, epsilon: 0.020
+episode: 2945, score: 0, epsilon: 0.020
+video: 2950, score: 500 (best 700.0 at episode 25)
+episode: 2950, score: 500, epsilon: 0.020
+episode: 2955, score: 500, epsilon: 0.020
+episode: 2960, score: 0, epsilon: 0.020
+episode: 2965, score: 250, epsilon: 0.020
+episode: 2970, score: 350, epsilon: 0.020
+video: 2975, score: 250 (best 700.0 at episode 25)
+episode: 2975, score: 250, epsilon: 0.020
+episode: 2980, score: 250, epsilon: 0.020
+episode: 2985, score: 0, epsilon: 0.020
+episode: 2990, score: 350, epsilon: 0.020
+episode: 2995, score: 0, epsilon: 0.020
+Matching network values
+video: 3000, score: 100 (best 700.0 at episode 25)
+episode: 3000, score: 100, epsilon: 0.020
+marking, episode: 3000, score: 100.0, mean_score: 88.50, std_score: 149.31
+episode: 3005, score: 250, epsilon: 0.020
+episode: 3010, score: 0, epsilon: 0.020
+episode: 3015, score: 500, epsilon: 0.020
+episode: 3020, score: 250, epsilon: 0.020
+video: 3025, score: 250 (best 700.0 at episode 25)
+episode: 3025, score: 250, epsilon: 0.020
+episode: 3030, score: 0, epsilon: 0.020
+episode: 3035, score: 0, epsilon: 0.020
+episode: 3040, score: 0, epsilon: 0.020
+episode: 3045, score: 500, epsilon: 0.020
+video: 3050, score: 250 (best 700.0 at episode 25)
+episode: 3050, score: 250, epsilon: 0.020
+episode: 3055, score: 100, epsilon: 0.020
+episode: 3060, score: 0, epsilon: 0.020
+episode: 3065, score: 0, epsilon: 0.020
+episode: 3070, score: 0, epsilon: 0.020
+video: 3075, score: 100 (best 700.0 at episode 25)
+episode: 3075, score: 100, epsilon: 0.020
+episode: 3080, score: 0, epsilon: 0.020
+episode: 3085, score: 250, epsilon: 0.020
+episode: 3090, score: 0, epsilon: 0.020
+episode: 3095, score: 0, epsilon: 0.020
+Matching network values
+video: 3100, score: 0 (best 700.0 at episode 25)
+episode: 3100, score: 0, epsilon: 0.020
+marking, episode: 3100, score: 0.0, mean_score: 102.00, std_score: 150.98
+episode: 3105, score: 0, epsilon: 0.020
+episode: 3110, score: 250, epsilon: 0.020
+episode: 3115, score: 0, epsilon: 0.020
+episode: 3120, score: 0, epsilon: 0.020
+video: 3125, score: 250 (best 700.0 at episode 25)
+episode: 3125, score: 250, epsilon: 0.020
+episode: 3130, score: 0, epsilon: 0.020
+episode: 3135, score: 250, epsilon: 0.020
+episode: 3140, score: 0, epsilon: 0.020
+episode: 3145, score: 100, epsilon: 0.020
+video: 3150, score: 0 (best 700.0 at episode 25)
+episode: 3150, score: 0, epsilon: 0.020
+episode: 3155, score: 0, epsilon: 0.020
+episode: 3160, score: 100, epsilon: 0.020
+episode: 3165, score: 250, epsilon: 0.020
+episode: 3170, score: 0, epsilon: 0.020
+video: 3175, score: 0 (best 700.0 at episode 25)
+episode: 3175, score: 0, epsilon: 0.020
+episode: 3180, score: 250, epsilon: 0.020
+episode: 3185, score: 0, epsilon: 0.020
+episode: 3190, score: 250, epsilon: 0.020
+episode: 3195, score: 0, epsilon: 0.020
+Matching network values
+video: 3200, score: 250 (best 700.0 at episode 25)
+episode: 3200, score: 250, epsilon: 0.020
+marking, episode: 3200, score: 250.0, mean_score: 86.50, std_score: 159.82
+episode: 3205, score: 0, epsilon: 0.020
+episode: 3210, score: 0, epsilon: 0.020
+episode: 3215, score: 0, epsilon: 0.020
+episode: 3220, score: 750, epsilon: 0.020
+video: 3225, score: 0 (best 700.0 at episode 25)
+episode: 3225, score: 0, epsilon: 0.020
+episode: 3230, score: 250, epsilon: 0.020
+episode: 3235, score: 0, epsilon: 0.020
+episode: 3240, score: 0, epsilon: 0.020
+episode: 3245, score: 0, epsilon: 0.020
+video: 3250, score: 0 (best 700.0 at episode 25)
+episode: 3250, score: 0, epsilon: 0.020
+episode: 3255, score: 0, epsilon: 0.020
+episode: 3260, score: 0, epsilon: 0.020
+episode: 3265, score: 0, epsilon: 0.020
+episode: 3270, score: 0, epsilon: 0.020
+video: 3275, score: 0 (best 700.0 at episode 25)
+episode: 3275, score: 0, epsilon: 0.020
+episode: 3280, score: 0, epsilon: 0.020
+episode: 3285, score: 0, epsilon: 0.020
+episode: 3290, score: 250, epsilon: 0.020
+episode: 3295, score: 250, epsilon: 0.020
+Matching network values
+video: 3300, score: 0 (best 700.0 at episode 25)
+episode: 3300, score: 0, epsilon: 0.020
+marking, episode: 3300, score: 0.0, mean_score: 79.00, std_score: 158.62
+episode: 3305, score: 0, epsilon: 0.020
+episode: 3310, score: 0, epsilon: 0.020
+episode: 3315, score: 0, epsilon: 0.020
+episode: 3320, score: 0, epsilon: 0.020
+video: 3325, score: 0 (best 700.0 at episode 25)
+episode: 3325, score: 0, epsilon: 0.020
+episode: 3330, score: 0, epsilon: 0.020
+episode: 3335, score: 0, epsilon: 0.020
+episode: 3340, score: 100, epsilon: 0.020
+episode: 3345, score: 100, epsilon: 0.020
+video: 3350, score: 0 (best 700.0 at episode 25)
+episode: 3350, score: 0, epsilon: 0.020
+episode: 3355, score: 0, epsilon: 0.020
+episode: 3360, score: 0, epsilon: 0.020
+episode: 3365, score: 0, epsilon: 0.020
+episode: 3370, score: 0, epsilon: 0.020
+video: 3375, score: 100 (best 700.0 at episode 25)
+episode: 3375, score: 100, epsilon: 0.020
+episode: 3380, score: 0, epsilon: 0.020
+episode: 3385, score: 250, epsilon: 0.020
+episode: 3390, score: 0, epsilon: 0.020
+episode: 3395, score: 0, epsilon: 0.020
+Matching network values
+video: 3400, score: 0 (best 700.0 at episode 25)
+episode: 3400, score: 0, epsilon: 0.020
+marking, episode: 3400, score: 0.0, mean_score: 50.50, std_score: 123.79
+episode: 3405, score: 200, epsilon: 0.020
+episode: 3410, score: 100, epsilon: 0.020
+episode: 3415, score: 250, epsilon: 0.020
+episode: 3420, score: 0, epsilon: 0.020
+video: 3425, score: 0 (best 700.0 at episode 25)
+episode: 3425, score: 0, epsilon: 0.020
+episode: 3430, score: 0, epsilon: 0.020
+episode: 3435, score: 0, epsilon: 0.020
+episode: 3440, score: 0, epsilon: 0.020
+episode: 3445, score: 500, epsilon: 0.020
+video: 3450, score: 0 (best 700.0 at episode 25)
+episode: 3450, score: 0, epsilon: 0.020
+episode: 3455, score: 0, epsilon: 0.020
+episode: 3460, score: 0, epsilon: 0.020
+episode: 3465, score: 0, epsilon: 0.020
+episode: 3470, score: 0, epsilon: 0.020
+video: 3475, score: 100 (best 700.0 at episode 25)
+episode: 3475, score: 100, epsilon: 0.020
+episode: 3480, score: 0, epsilon: 0.020
+episode: 3485, score: 0, epsilon: 0.020
+episode: 3490, score: 100, epsilon: 0.020
+episode: 3495, score: 0, epsilon: 0.020
+Matching network values
+video: 3500, score: 0 (best 700.0 at episode 25)
+episode: 3500, score: 0, epsilon: 0.020
+marking, episode: 3500, score: 0.0, mean_score: 54.00, std_score: 119.10
+episode: 3505, score: 100, epsilon: 0.020
+episode: 3510, score: 0, epsilon: 0.020
+episode: 3515, score: 0, epsilon: 0.020
+episode: 3520, score: 100, epsilon: 0.020
+video: 3525, score: 0 (best 700.0 at episode 25)
+episode: 3525, score: 0, epsilon: 0.020
+episode: 3530, score: 450, epsilon: 0.020
+episode: 3535, score: 0, epsilon: 0.020
+episode: 3540, score: 0, epsilon: 0.020
+episode: 3545, score: 0, epsilon: 0.020
+video: 3550, score: 350 (best 700.0 at episode 25)
+episode: 3550, score: 350, epsilon: 0.020
+episode: 3555, score: 0, epsilon: 0.020
+episode: 3560, score: 0, epsilon: 0.020
+episode: 3565, score: 100, epsilon: 0.020
+episode: 3570, score: 0, epsilon: 0.020
+video: 3575, score: 0 (best 700.0 at episode 25)
+episode: 3575, score: 0, epsilon: 0.020
+episode: 3580, score: 0, epsilon: 0.020
+episode: 3585, score: 500, epsilon: 0.020
+episode: 3590, score: 0, epsilon: 0.020
+episode: 3595, score: 0, epsilon: 0.020
+Matching network values
+video: 3600, score: 0 (best 700.0 at episode 25)
+episode: 3600, score: 0, epsilon: 0.020
+marking, episode: 3600, score: 0.0, mean_score: 71.00, std_score: 127.31
+episode: 3605, score: 0, epsilon: 0.020
+episode: 3610, score: 0, epsilon: 0.020
+episode: 3615, score: 0, epsilon: 0.020
+episode: 3620, score: 0, epsilon: 0.020
+video: 3625, score: 0 (best 700.0 at episode 25)
+episode: 3625, score: 0, epsilon: 0.020
+episode: 3630, score: 0, epsilon: 0.020
+episode: 3635, score: 0, epsilon: 0.020
+episode: 3640, score: 0, epsilon: 0.020
+episode: 3645, score: 0, epsilon: 0.020
+video: 3650, score: 0 (best 700.0 at episode 25)
+episode: 3650, score: 0, epsilon: 0.020
+episode: 3655, score: 100, epsilon: 0.020
+episode: 3660, score: 0, epsilon: 0.020
+episode: 3665, score: 250, epsilon: 0.020
+episode: 3670, score: 350, epsilon: 0.020
+video: 3675, score: 100 (best 700.0 at episode 25)
+episode: 3675, score: 100, epsilon: 0.020
+episode: 3680, score: 250, epsilon: 0.020
+episode: 3685, score: 100, epsilon: 0.020
+episode: 3690, score: 0, epsilon: 0.020
+episode: 3695, score: 100, epsilon: 0.020
+Matching network values
+video: 3700, score: 0 (best 700.0 at episode 25)
+episode: 3700, score: 0, epsilon: 0.020
+marking, episode: 3700, score: 0.0, mean_score: 59.00, std_score: 115.41
+episode: 3705, score: 0, epsilon: 0.020
+episode: 3710, score: 0, epsilon: 0.020
+episode: 3715, score: 0, epsilon: 0.020
+episode: 3720, score: 0, epsilon: 0.020
+video: 3725, score: 600 (best 700.0 at episode 25)
+episode: 3725, score: 600, epsilon: 0.020
+episode: 3730, score: 350, epsilon: 0.020
+episode: 3735, score: 0, epsilon: 0.020
+episode: 3740, score: 0, epsilon: 0.020
+episode: 3745, score: 0, epsilon: 0.020
+video: 3750, score: 250 (best 700.0 at episode 25)
+episode: 3750, score: 250, epsilon: 0.020
+episode: 3755, score: 0, epsilon: 0.020
+episode: 3760, score: 100, epsilon: 0.020
+episode: 3765, score: 250, epsilon: 0.020
+episode: 3770, score: 0, epsilon: 0.020
+video: 3775, score: 0 (best 700.0 at episode 25)
+episode: 3775, score: 0, epsilon: 0.020
+episode: 3780, score: 350, epsilon: 0.020
+episode: 3785, score: 0, epsilon: 0.020
+episode: 3790, score: 0, epsilon: 0.020
+episode: 3795, score: 0, epsilon: 0.020
+Matching network values
+video: 3800, score: 0 (best 700.0 at episode 25)
+episode: 3800, score: 0, epsilon: 0.020
+marking, episode: 3800, score: 0.0, mean_score: 75.50, std_score: 130.67
+episode: 3805, score: 0, epsilon: 0.020
+episode: 3810, score: 0, epsilon: 0.020
+episode: 3815, score: 100, epsilon: 0.020
+episode: 3820, score: 0, epsilon: 0.020
+video: 3825, score: 0 (best 700.0 at episode 25)
+episode: 3825, score: 0, epsilon: 0.020
+episode: 3830, score: 100, epsilon: 0.020
+episode: 3835, score: 0, epsilon: 0.020
+episode: 3840, score: 250, epsilon: 0.020
+episode: 3845, score: 0, epsilon: 0.020
+video: 3850, score: 0 (best 700.0 at episode 25)
+episode: 3850, score: 0, epsilon: 0.020
+episode: 3855, score: 0, epsilon: 0.020
+episode: 3860, score: 0, epsilon: 0.020
+episode: 3865, score: 0, epsilon: 0.020
+episode: 3870, score: 100, epsilon: 0.020
+video: 3875, score: 0 (best 700.0 at episode 25)
+episode: 3875, score: 0, epsilon: 0.020
+episode: 3880, score: 0, epsilon: 0.020
+episode: 3885, score: 0, epsilon: 0.020
+episode: 3890, score: 0, epsilon: 0.020
+episode: 3895, score: 0, epsilon: 0.020
+Matching network values
+video: 3900, score: 0 (best 700.0 at episode 25)
+episode: 3900, score: 0, epsilon: 0.020
+marking, episode: 3900, score: 0.0, mean_score: 70.00, std_score: 142.48
+episode: 3905, score: 0, epsilon: 0.020
+episode: 3910, score: 0, epsilon: 0.020
+episode: 3915, score: 0, epsilon: 0.020
+episode: 3920, score: 0, epsilon: 0.020
+video: 3925, score: 0 (best 700.0 at episode 25)
+episode: 3925, score: 0, epsilon: 0.020
+episode: 3930, score: 0, epsilon: 0.020
+episode: 3935, score: 0, epsilon: 0.020
+episode: 3940, score: 0, epsilon: 0.020
+episode: 3945, score: 0, epsilon: 0.020
+video: 3950, score: 0 (best 700.0 at episode 25)
+episode: 3950, score: 0, epsilon: 0.020
+episode: 3955, score: 0, epsilon: 0.020
+episode: 3960, score: 0, epsilon: 0.020
+episode: 3965, score: 0, epsilon: 0.020
+episode: 3970, score: 0, epsilon: 0.020
+video: 3975, score: 0 (best 700.0 at episode 25)
+episode: 3975, score: 0, epsilon: 0.020
+episode: 3980, score: 0, epsilon: 0.020
+episode: 3985, score: 0, epsilon: 0.020
+episode: 3990, score: 0, epsilon: 0.020
+episode: 3995, score: 0, epsilon: 0.020
+Matching network values
+video: 4000, score: 0 (best 700.0 at episode 25)
+episode: 4000, score: 0, epsilon: 0.020
+marking, episode: 4000, score: 0.0, mean_score: 36.50, std_score: 85.40
+episode: 4005, score: 0, epsilon: 0.020
+episode: 4010, score: 0, epsilon: 0.020
+episode: 4015, score: 500, epsilon: 0.020
+episode: 4020, score: 0, epsilon: 0.020
+video: 4025, score: 100 (best 700.0 at episode 25)
+episode: 4025, score: 100, epsilon: 0.020
+episode: 4030, score: 250, epsilon: 0.020
+episode: 4035, score: 350, epsilon: 0.020
+episode: 4040, score: 100, epsilon: 0.020
+episode: 4045, score: 0, epsilon: 0.020
+video: 4050, score: 0 (best 700.0 at episode 25)
+episode: 4050, score: 0, epsilon: 0.020
+episode: 4055, score: 0, epsilon: 0.020
+episode: 4060, score: 0, epsilon: 0.020
+episode: 4065, score: 250, epsilon: 0.020
+episode: 4070, score: 0, epsilon: 0.020
+video: 4075, score: 0 (best 700.0 at episode 25)
+episode: 4075, score: 0, epsilon: 0.020
+episode: 4080, score: 500, epsilon: 0.020
+episode: 4085, score: 0, epsilon: 0.020
+episode: 4090, score: 0, epsilon: 0.020
+episode: 4095, score: 0, epsilon: 0.020
+Matching network values
+video: 4100, score: 100 (best 700.0 at episode 25)
+episode: 4100, score: 100, epsilon: 0.020
+marking, episode: 4100, score: 100.0, mean_score: 102.50, std_score: 141.31
+episode: 4105, score: 0, epsilon: 0.020
+episode: 4110, score: 100, epsilon: 0.020
+episode: 4115, score: 100, epsilon: 0.020
+episode: 4120, score: 0, epsilon: 0.020
+video: 4125, score: 0 (best 700.0 at episode 25)
+episode: 4125, score: 0, epsilon: 0.020
+episode: 4130, score: 0, epsilon: 0.020
+episode: 4135, score: 100, epsilon: 0.020
+episode: 4140, score: 0, epsilon: 0.020
+episode: 4145, score: 100, epsilon: 0.020
+video: 4150, score: 0 (best 700.0 at episode 25)
+episode: 4150, score: 0, epsilon: 0.020
+episode: 4155, score: 750, epsilon: 0.020
+episode: 4160, score: 0, epsilon: 0.020
+episode: 4165, score: 0, epsilon: 0.020
+episode: 4170, score: 100, epsilon: 0.020
+video: 4175, score: 0 (best 700.0 at episode 25)
+episode: 4175, score: 0, epsilon: 0.020
+episode: 4180, score: 100, epsilon: 0.020
+episode: 4185, score: 250, epsilon: 0.020
+episode: 4190, score: 0, epsilon: 0.020
+episode: 4195, score: 200, epsilon: 0.020
+Matching network values
+video: 4200, score: 0 (best 700.0 at episode 25)
+episode: 4200, score: 0, epsilon: 0.020
+marking, episode: 4200, score: 0.0, mean_score: 61.50, std_score: 111.10
+episode: 4205, score: 250, epsilon: 0.020
+episode: 4210, score: 0, epsilon: 0.020
+episode: 4215, score: 100, epsilon: 0.020
+episode: 4220, score: 0, epsilon: 0.020
+video: 4225, score: 0 (best 700.0 at episode 25)
+episode: 4225, score: 0, epsilon: 0.020
+episode: 4230, score: 250, epsilon: 0.020
+episode: 4235, score: 100, epsilon: 0.020
+episode: 4240, score: 0, epsilon: 0.020
+episode: 4245, score: 0, epsilon: 0.020
+video: 4250, score: 0 (best 700.0 at episode 25)
+episode: 4250, score: 0, epsilon: 0.020
+episode: 4255, score: 100, epsilon: 0.020
+episode: 4260, score: 0, epsilon: 0.020
+episode: 4265, score: 0, epsilon: 0.020
+episode: 4270, score: 0, epsilon: 0.020
+video: 4275, score: 200 (best 700.0 at episode 25)
+episode: 4275, score: 200, epsilon: 0.020
+episode: 4280, score: 0, epsilon: 0.020
+episode: 4285, score: 250, epsilon: 0.020
+episode: 4290, score: 0, epsilon: 0.020
+episode: 4295, score: 0, epsilon: 0.020
+Matching network values
+video: 4300, score: 0 (best 700.0 at episode 25)
+episode: 4300, score: 0, epsilon: 0.020
+marking, episode: 4300, score: 0.0, mean_score: 98.00, std_score: 162.93
+episode: 4305, score: 100, epsilon: 0.020
+episode: 4310, score: 0, epsilon: 0.020
+episode: 4315, score: 0, epsilon: 0.020
+episode: 4320, score: 0, epsilon: 0.020
+video: 4325, score: 250 (best 700.0 at episode 25)
+episode: 4325, score: 250, epsilon: 0.020
+episode: 4330, score: 0, epsilon: 0.020
+episode: 4335, score: 500, epsilon: 0.020
+episode: 4340, score: 600, epsilon: 0.020
+episode: 4345, score: 250, epsilon: 0.020
+video: 4350, score: 0 (best 700.0 at episode 25)
+episode: 4350, score: 0, epsilon: 0.020
+episode: 4355, score: 0, epsilon: 0.020
+episode: 4360, score: 100, epsilon: 0.020
+episode: 4365, score: 250, epsilon: 0.020
+episode: 4370, score: 0, epsilon: 0.020
+video: 4375, score: 0 (best 700.0 at episode 25)
+episode: 4375, score: 0, epsilon: 0.020
+episode: 4380, score: 350, epsilon: 0.020
+episode: 4385, score: 100, epsilon: 0.020
+episode: 4390, score: 0, epsilon: 0.020
+episode: 4395, score: 250, epsilon: 0.020
+Matching network values
+video: 4400, score: 0 (best 700.0 at episode 25)
+episode: 4400, score: 0, epsilon: 0.020
+marking, episode: 4400, score: 0.0, mean_score: 88.50, std_score: 149.47
+episode: 4405, score: 0, epsilon: 0.020
+episode: 4410, score: 0, epsilon: 0.020
+episode: 4415, score: 0, epsilon: 0.020
+episode: 4420, score: 0, epsilon: 0.020
+video: 4425, score: 100 (best 700.0 at episode 25)
+episode: 4425, score: 100, epsilon: 0.020
+episode: 4430, score: 0, epsilon: 0.020
+episode: 4435, score: 100, epsilon: 0.020
+episode: 4440, score: 100, epsilon: 0.020
+episode: 4445, score: 0, epsilon: 0.020
+video: 4450, score: 0 (best 700.0 at episode 25)
+episode: 4450, score: 0, epsilon: 0.020
+episode: 4455, score: 0, epsilon: 0.020
+episode: 4460, score: 0, epsilon: 0.020
+episode: 4465, score: 250, epsilon: 0.020
+episode: 4470, score: 250, epsilon: 0.020
+video: 4475, score: 250 (best 700.0 at episode 25)
+episode: 4475, score: 250, epsilon: 0.020
+episode: 4480, score: 250, epsilon: 0.020
+episode: 4485, score: 100, epsilon: 0.020
+episode: 4490, score: 0, epsilon: 0.020
+episode: 4495, score: 0, epsilon: 0.020
+Matching network values
+video: 4500, score: 0 (best 700.0 at episode 25)
+episode: 4500, score: 0, epsilon: 0.020
+marking, episode: 4500, score: 0.0, mean_score: 60.00, std_score: 124.50
+episode: 4505, score: 0, epsilon: 0.020
+episode: 4510, score: 0, epsilon: 0.020
+episode: 4515, score: 0, epsilon: 0.020
+episode: 4520, score: 250, epsilon: 0.020
+video: 4525, score: 350 (best 700.0 at episode 25)
+episode: 4525, score: 350, epsilon: 0.020
+episode: 4530, score: 0, epsilon: 0.020
+episode: 4535, score: 500, epsilon: 0.020
+episode: 4540, score: 0, epsilon: 0.020
+episode: 4545, score: 0, epsilon: 0.020
+video: 4550, score: 100 (best 700.0 at episode 25)
+episode: 4550, score: 100, epsilon: 0.020
+episode: 4555, score: 0, epsilon: 0.020
+episode: 4560, score: 250, epsilon: 0.020
+episode: 4565, score: 250, epsilon: 0.020
+episode: 4570, score: 0, epsilon: 0.020
+video: 4575, score: 0 (best 700.0 at episode 25)
+episode: 4575, score: 0, epsilon: 0.020
+episode: 4580, score: 0, epsilon: 0.020
+episode: 4585, score: 0, epsilon: 0.020
+episode: 4590, score: 0, epsilon: 0.020
+episode: 4595, score: 0, epsilon: 0.020
+Matching network values
+video: 4600, score: 0 (best 700.0 at episode 25)
+episode: 4600, score: 0, epsilon: 0.020
+marking, episode: 4600, score: 0.0, mean_score: 75.50, std_score: 139.19
+episode: 4605, score: 0, epsilon: 0.020
+episode: 4610, score: 500, epsilon: 0.020
+episode: 4615, score: 0, epsilon: 0.020
+episode: 4620, score: 0, epsilon: 0.020
+video: 4625, score: 100 (best 700.0 at episode 25)
+episode: 4625, score: 100, epsilon: 0.020
+episode: 4630, score: 0, epsilon: 0.020
+episode: 4635, score: 0, epsilon: 0.020
+episode: 4640, score: 0, epsilon: 0.020
+episode: 4645, score: 0, epsilon: 0.020
+video: 4650, score: 0 (best 700.0 at episode 25)
+episode: 4650, score: 0, epsilon: 0.020
+episode: 4655, score: 0, epsilon: 0.020
+episode: 4660, score: 100, epsilon: 0.020
+episode: 4665, score: 100, epsilon: 0.020
+episode: 4670, score: 0, epsilon: 0.020
+video: 4675, score: 0 (best 700.0 at episode 25)
+episode: 4675, score: 0, epsilon: 0.020
+episode: 4680, score: 0, epsilon: 0.020
+episode: 4685, score: 0, epsilon: 0.020
+episode: 4690, score: 0, epsilon: 0.020
+episode: 4695, score: 0, epsilon: 0.020
+Matching network values
+video: 4700, score: 250 (best 700.0 at episode 25)
+episode: 4700, score: 250, epsilon: 0.020
+marking, episode: 4700, score: 250.0, mean_score: 93.50, std_score: 170.68
+episode: 4705, score: 0, epsilon: 0.020
+episode: 4710, score: 0, epsilon: 0.020
+episode: 4715, score: 0, epsilon: 0.020
+episode: 4720, score: 0, epsilon: 0.020
+video: 4725, score: 250 (best 700.0 at episode 25)
+episode: 4725, score: 250, epsilon: 0.020
+episode: 4730, score: 0, epsilon: 0.020
+episode: 4735, score: 0, epsilon: 0.020
+episode: 4740, score: 0, epsilon: 0.020
+episode: 4745, score: 0, epsilon: 0.020
+video: 4750, score: 0 (best 700.0 at episode 25)
+episode: 4750, score: 0, epsilon: 0.020
+episode: 4755, score: 0, epsilon: 0.020
+episode: 4760, score: 0, epsilon: 0.020
+episode: 4765, score: 0, epsilon: 0.020
+episode: 4770, score: 0, epsilon: 0.020
+video: 4775, score: 250 (best 700.0 at episode 25)
+episode: 4775, score: 250, epsilon: 0.020
+episode: 4780, score: 0, epsilon: 0.020
+episode: 4785, score: 0, epsilon: 0.020
+episode: 4790, score: 0, epsilon: 0.020
+episode: 4795, score: 250, epsilon: 0.020
+Matching network values
+video: 4800, score: 0 (best 700.0 at episode 25)
+episode: 4800, score: 0, epsilon: 0.020
+marking, episode: 4800, score: 0.0, mean_score: 97.50, std_score: 156.90
+episode: 4805, score: 0, epsilon: 0.020
+episode: 4810, score: 0, epsilon: 0.020
+episode: 4815, score: 350, epsilon: 0.020
+episode: 4820, score: 0, epsilon: 0.020
+video: 4825, score: 250 (best 700.0 at episode 25)
+episode: 4825, score: 250, epsilon: 0.020
+episode: 4830, score: 0, epsilon: 0.020
+episode: 4835, score: 0, epsilon: 0.020
+episode: 4840, score: 100, epsilon: 0.020
+episode: 4845, score: 0, epsilon: 0.020
+video: 4850, score: 0 (best 700.0 at episode 25)
+episode: 4850, score: 0, epsilon: 0.020
+episode: 4855, score: 600, epsilon: 0.020
+episode: 4860, score: 0, epsilon: 0.020
+episode: 4865, score: 0, epsilon: 0.020
+episode: 4870, score: 250, epsilon: 0.020
+video: 4875, score: 0 (best 700.0 at episode 25)
+episode: 4875, score: 0, epsilon: 0.020
+episode: 4880, score: 350, epsilon: 0.020
+episode: 4885, score: 0, epsilon: 0.020
+episode: 4890, score: 0, epsilon: 0.020
+episode: 4895, score: 0, epsilon: 0.020
+Matching network values
+video: 4900, score: 100 (best 700.0 at episode 25)
+episode: 4900, score: 100, epsilon: 0.020
+marking, episode: 4900, score: 100.0, mean_score: 88.50, std_score: 153.44
+episode: 4905, score: 0, epsilon: 0.020
+episode: 4910, score: 0, epsilon: 0.020
+episode: 4915, score: 0, epsilon: 0.020
+episode: 4920, score: 0, epsilon: 0.020
+video: 4925, score: 0 (best 700.0 at episode 25)
+episode: 4925, score: 0, epsilon: 0.020
+episode: 4930, score: 0, epsilon: 0.020
+episode: 4935, score: 0, epsilon: 0.020
+episode: 4940, score: 250, epsilon: 0.020
+episode: 4945, score: 0, epsilon: 0.020
+video: 4950, score: 0 (best 700.0 at episode 25)
+episode: 4950, score: 0, epsilon: 0.020
+episode: 4955, score: 0, epsilon: 0.020
+episode: 4960, score: 250, epsilon: 0.020
+episode: 4965, score: 350, epsilon: 0.020
+episode: 4970, score: 250, epsilon: 0.020
+video: 4975, score: 350 (best 700.0 at episode 25)
+episode: 4975, score: 350, epsilon: 0.020
+episode: 4980, score: 0, epsilon: 0.020
+episode: 4985, score: 0, epsilon: 0.020
+episode: 4990, score: 350, epsilon: 0.020
+episode: 4995, score: 100, epsilon: 0.020
+Matching network values
+video: 5000, score: 250 (best 700.0 at episode 25)
+episode: 5000, score: 250, epsilon: 0.020
+marking, episode: 5000, score: 250.0, mean_score: 78.00, std_score: 146.34
+episode: 5005, score: 0, epsilon: 0.020
+episode: 5010, score: 0, epsilon: 0.020
+episode: 5015, score: 0, epsilon: 0.020
+episode: 5020, score: 0, epsilon: 0.020
+video: 5025, score: 0 (best 700.0 at episode 25)
+episode: 5025, score: 0, epsilon: 0.020
+episode: 5030, score: 0, epsilon: 0.020
+episode: 5035, score: 0, epsilon: 0.020
+episode: 5040, score: 0, epsilon: 0.020
+episode: 5045, score: 0, epsilon: 0.020
+video: 5050, score: 0 (best 700.0 at episode 25)
+episode: 5050, score: 0, epsilon: 0.020
+episode: 5055, score: 0, epsilon: 0.020
+episode: 5060, score: 0, epsilon: 0.020
+episode: 5065, score: 350, epsilon: 0.020
+episode: 5070, score: 0, epsilon: 0.020
+video: 5075, score: 0 (best 700.0 at episode 25)
+episode: 5075, score: 0, epsilon: 0.020
+episode: 5080, score: 100, epsilon: 0.020
+episode: 5085, score: 500, epsilon: 0.020
+episode: 5090, score: 0, epsilon: 0.020
+episode: 5095, score: 0, epsilon: 0.020
+Matching network values
+video: 5100, score: 0 (best 700.0 at episode 25)
+episode: 5100, score: 0, epsilon: 0.020
+marking, episode: 5100, score: 0.0, mean_score: 81.00, std_score: 135.05
+episode: 5105, score: 250, epsilon: 0.020
+episode: 5110, score: 0, epsilon: 0.020
+episode: 5115, score: 250, epsilon: 0.020
+episode: 5120, score: 100, epsilon: 0.020
+video: 5125, score: 250 (best 700.0 at episode 25)
+episode: 5125, score: 250, epsilon: 0.020
+episode: 5130, score: 0, epsilon: 0.020
+episode: 5135, score: 0, epsilon: 0.020
+episode: 5140, score: 0, epsilon: 0.020
+episode: 5145, score: 0, epsilon: 0.020
+video: 5150, score: 0 (best 700.0 at episode 25)
+episode: 5150, score: 0, epsilon: 0.020
+episode: 5155, score: 0, epsilon: 0.020
+episode: 5160, score: 0, epsilon: 0.020
+episode: 5165, score: 0, epsilon: 0.020
+episode: 5170, score: 100, epsilon: 0.020
+video: 5175, score: 0 (best 700.0 at episode 25)
+episode: 5175, score: 0, epsilon: 0.020
+episode: 5180, score: 0, epsilon: 0.020
+episode: 5185, score: 0, epsilon: 0.020
+episode: 5190, score: 0, epsilon: 0.020
+episode: 5195, score: 500, epsilon: 0.020
+Matching network values
+video: 5200, score: 0 (best 700.0 at episode 25)
+episode: 5200, score: 0, epsilon: 0.020
+marking, episode: 5200, score: 0.0, mean_score: 73.50, std_score: 137.92
+episode: 5205, score: 100, epsilon: 0.020
+episode: 5210, score: 100, epsilon: 0.020
+episode: 5215, score: 200, epsilon: 0.020
+episode: 5220, score: 0, epsilon: 0.020
+video: 5225, score: 250 (best 700.0 at episode 25)
+episode: 5225, score: 250, epsilon: 0.020
+episode: 5230, score: 0, epsilon: 0.020
+episode: 5235, score: 100, epsilon: 0.020
+episode: 5240, score: 100, epsilon: 0.020
+episode: 5245, score: 0, epsilon: 0.020
+video: 5250, score: 0 (best 700.0 at episode 25)
+episode: 5250, score: 0, epsilon: 0.020
+episode: 5255, score: 0, epsilon: 0.020
+episode: 5260, score: 250, epsilon: 0.020
+episode: 5265, score: 250, epsilon: 0.020
+episode: 5270, score: 0, epsilon: 0.020
+video: 5275, score: 0 (best 700.0 at episode 25)
+episode: 5275, score: 0, epsilon: 0.020
+episode: 5280, score: 200, epsilon: 0.020
+episode: 5285, score: 350, epsilon: 0.020
+episode: 5290, score: 0, epsilon: 0.020
+episode: 5295, score: 0, epsilon: 0.020
+Matching network values
+video: 5300, score: 0 (best 700.0 at episode 25)
+episode: 5300, score: 0, epsilon: 0.020
+marking, episode: 5300, score: 0.0, mean_score: 78.00, std_score: 111.87
+episode: 5305, score: 0, epsilon: 0.020
+episode: 5310, score: 100, epsilon: 0.020
+episode: 5315, score: 100, epsilon: 0.020
+episode: 5320, score: 0, epsilon: 0.020
+video: 5325, score: 0 (best 700.0 at episode 25)
+episode: 5325, score: 0, epsilon: 0.020
+episode: 5330, score: 0, epsilon: 0.020
+episode: 5335, score: 250, epsilon: 0.020
+episode: 5340, score: 0, epsilon: 0.020
+episode: 5345, score: 250, epsilon: 0.020
+video: 5350, score: 0 (best 700.0 at episode 25)
+episode: 5350, score: 0, epsilon: 0.020
+episode: 5355, score: 0, epsilon: 0.020
+episode: 5360, score: 0, epsilon: 0.020
+episode: 5365, score: 0, epsilon: 0.020
+episode: 5370, score: 0, epsilon: 0.020
+video: 5375, score: 350 (best 700.0 at episode 25)
+episode: 5375, score: 350, epsilon: 0.020
+episode: 5380, score: 0, epsilon: 0.020
+episode: 5385, score: 250, epsilon: 0.020
+episode: 5390, score: 250, epsilon: 0.020
+episode: 5395, score: 0, epsilon: 0.020
+Matching network values
+video: 5400, score: 350 (best 700.0 at episode 25)
+episode: 5400, score: 350, epsilon: 0.020
+marking, episode: 5400, score: 350.0, mean_score: 72.00, std_score: 133.85
+episode: 5405, score: 0, epsilon: 0.020
+episode: 5410, score: 0, epsilon: 0.020
+episode: 5415, score: 0, epsilon: 0.020
+episode: 5420, score: 0, epsilon: 0.020
+video: 5425, score: 250 (best 700.0 at episode 25)
+episode: 5425, score: 250, epsilon: 0.020
+episode: 5430, score: 0, epsilon: 0.020
+episode: 5435, score: 100, epsilon: 0.020
+episode: 5440, score: 0, epsilon: 0.020
+episode: 5445, score: 100, epsilon: 0.020
+video: 5450, score: 250 (best 700.0 at episode 25)
+episode: 5450, score: 250, epsilon: 0.020
+episode: 5455, score: 500, epsilon: 0.020
+episode: 5460, score: 100, epsilon: 0.020
+episode: 5465, score: 0, epsilon: 0.020
+episode: 5470, score: 0, epsilon: 0.020
+video: 5475, score: 0 (best 700.0 at episode 25)
+episode: 5475, score: 0, epsilon: 0.020
+episode: 5480, score: 0, epsilon: 0.020
+episode: 5485, score: 0, epsilon: 0.020
+episode: 5490, score: 0, epsilon: 0.020
+episode: 5495, score: 0, epsilon: 0.020
+Matching network values
+video: 5500, score: 0 (best 700.0 at episode 25)
+episode: 5500, score: 0, epsilon: 0.020
+marking, episode: 5500, score: 0.0, mean_score: 71.50, std_score: 131.58
+episode: 5505, score: 0, epsilon: 0.020
+episode: 5510, score: 0, epsilon: 0.020
+episode: 5515, score: 450, epsilon: 0.020
+episode: 5520, score: 0, epsilon: 0.020
+video: 5525, score: 100 (best 700.0 at episode 25)
+episode: 5525, score: 100, epsilon: 0.020
+episode: 5530, score: 0, epsilon: 0.020
+episode: 5535, score: 0, epsilon: 0.020
+episode: 5540, score: 0, epsilon: 0.020
+episode: 5545, score: 250, epsilon: 0.020
+video: 5550, score: 0 (best 700.0 at episode 25)
+episode: 5550, score: 0, epsilon: 0.020
+episode: 5555, score: 250, epsilon: 0.020
+episode: 5560, score: 100, epsilon: 0.020
+episode: 5565, score: 100, epsilon: 0.020
+episode: 5570, score: 0, epsilon: 0.020
+video: 5575, score: 0 (best 700.0 at episode 25)
+episode: 5575, score: 0, epsilon: 0.020
+episode: 5580, score: 0, epsilon: 0.020
+episode: 5585, score: 0, epsilon: 0.020
+episode: 5590, score: 0, epsilon: 0.020
+episode: 5595, score: 0, epsilon: 0.020
+Matching network values
+video: 5600, score: 0 (best 700.0 at episode 25)
+episode: 5600, score: 0, epsilon: 0.020
+marking, episode: 5600, score: 0.0, mean_score: 59.00, std_score: 108.94
+episode: 5605, score: 250, epsilon: 0.020
+episode: 5610, score: 0, epsilon: 0.020
+episode: 5615, score: 0, epsilon: 0.020
+episode: 5620, score: 0, epsilon: 0.020
+video: 5625, score: 0 (best 700.0 at episode 25)
+episode: 5625, score: 0, epsilon: 0.020
+episode: 5630, score: 250, epsilon: 0.020
+episode: 5635, score: 0, epsilon: 0.020
+episode: 5640, score: 100, epsilon: 0.020
+episode: 5645, score: 0, epsilon: 0.020
+video: 5650, score: 100 (best 700.0 at episode 25)
+episode: 5650, score: 100, epsilon: 0.020
+episode: 5655, score: 0, epsilon: 0.020
+episode: 5660, score: 0, epsilon: 0.020
+episode: 5665, score: 0, epsilon: 0.020
+episode: 5670, score: 500, epsilon: 0.020
+video: 5675, score: 0 (best 700.0 at episode 25)
+episode: 5675, score: 0, epsilon: 0.020
+episode: 5680, score: 0, epsilon: 0.020
+episode: 5685, score: 250, epsilon: 0.020
+episode: 5690, score: 0, epsilon: 0.020
+episode: 5695, score: 250, epsilon: 0.020
+Matching network values
+video: 5700, score: 0 (best 700.0 at episode 25)
+episode: 5700, score: 0, epsilon: 0.020
+marking, episode: 5700, score: 0.0, mean_score: 85.00, std_score: 131.24
+episode: 5705, score: 350, epsilon: 0.020
+episode: 5710, score: 0, epsilon: 0.020
+episode: 5715, score: 250, epsilon: 0.020
+episode: 5720, score: 100, epsilon: 0.020
+video: 5725, score: 0 (best 700.0 at episode 25)
+episode: 5725, score: 0, epsilon: 0.020
+episode: 5730, score: 0, epsilon: 0.020
+episode: 5735, score: 250, epsilon: 0.020
+episode: 5740, score: 0, epsilon: 0.020
+episode: 5745, score: 0, epsilon: 0.020
+video: 5750, score: 250 (best 700.0 at episode 25)
+episode: 5750, score: 250, epsilon: 0.020
+episode: 5755, score: 0, epsilon: 0.020
+episode: 5760, score: 500, epsilon: 0.020
+episode: 5765, score: 100, epsilon: 0.020
+episode: 5770, score: 0, epsilon: 0.020
+video: 5775, score: 350 (best 700.0 at episode 25)
+episode: 5775, score: 350, epsilon: 0.020
+episode: 5780, score: 250, epsilon: 0.020
+episode: 5785, score: 0, epsilon: 0.020
+episode: 5790, score: 0, epsilon: 0.020
+episode: 5795, score: 250, epsilon: 0.020
+Matching network values
+video: 5800, score: 0 (best 700.0 at episode 25)
+episode: 5800, score: 0, epsilon: 0.020
+marking, episode: 5800, score: 0.0, mean_score: 115.00, std_score: 163.02
+episode: 5805, score: 0, epsilon: 0.020
+episode: 5810, score: 600, epsilon: 0.020
+episode: 5815, score: 0, epsilon: 0.020
+episode: 5820, score: 250, epsilon: 0.020
+video: 5825, score: 0 (best 700.0 at episode 25)
+episode: 5825, score: 0, epsilon: 0.020
+episode: 5830, score: 0, epsilon: 0.020
+episode: 5835, score: 100, epsilon: 0.020
+episode: 5840, score: 0, epsilon: 0.020
+episode: 5845, score: 0, epsilon: 0.020
+video: 5850, score: 0 (best 700.0 at episode 25)
+episode: 5850, score: 0, epsilon: 0.020
+episode: 5855, score: 0, epsilon: 0.020
+episode: 5860, score: 0, epsilon: 0.020
+episode: 5865, score: 100, epsilon: 0.020
+episode: 5870, score: 0, epsilon: 0.020
+video: 5875, score: 0 (best 700.0 at episode 25)
+episode: 5875, score: 0, epsilon: 0.020
+episode: 5880, score: 0, epsilon: 0.020
+episode: 5885, score: 0, epsilon: 0.020
